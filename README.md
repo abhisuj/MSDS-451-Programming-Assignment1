@@ -97,5 +97,6 @@ AI assistants, including GitHub Copilot and ChatGPT, were used to:
 - Suggest efficient ways to implement technical indicators (such as RSI) and cross-validation strategies.
 - Draft and improve documentation, code comments, and Markdown explanations.
 - Provide guidance on best practices for reproducibility and code organization.
+- Enhance project report for incorporating insights for developing advanced trading strategies and next steps.
 
 All code was reviewed, tested, and adapted to ensure correctness and alignment with assignment requirements.
